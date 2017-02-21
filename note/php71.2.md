@@ -72,8 +72,7 @@
 
 ---
 ``` 
-# yum -y install libxml2-devel zlib-devel libacl-devel lcov systemtap-sdt-devel openssl-devel libcurl-devel enchant-devel libwebp-devel libjpeg-turbo-devel gd-devel gmp-devel uw-imap-devel libicu-devel libmcrypt-devel readline-devel recode-devel net-snmp-devel libtidy-devel libxslt-devel
-
+# yum -y install libxml2-devel zlib-devel libacl-devel lcov systemtap-sdt-devel openssl-devel libcurl-devel enchant-devel libwebp-devel libjpeg-turbo-devel gd-devel gmp-devel uw-imap-devel libicu-devel libmcrypt-devel readline-devel recode-devel net-snmp-devel libtidy-devel libxslt-devel bzip2-devel
 
 ln -s /usr/lib64/libc-client.so /usr/lib/libc-client.so
 
